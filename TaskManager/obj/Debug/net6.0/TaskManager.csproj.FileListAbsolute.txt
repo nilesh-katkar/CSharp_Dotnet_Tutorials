@@ -1,0 +1,5 @@
+D:\Nilesh\Tutorials\CSharp_Tutorials\TaskManager\obj\Debug\net6.0\TaskManager.GeneratedMSBuildEditorConfig.editorconfig
+D:\Nilesh\Tutorials\CSharp_Tutorials\TaskManager\obj\Debug\net6.0\TaskManager.AssemblyInfoInputs.cache
+D:\Nilesh\Tutorials\CSharp_Tutorials\TaskManager\obj\Debug\net6.0\TaskManager.AssemblyInfo.cs
+D:\Nilesh\Tutorials\CSharp_Tutorials\TaskManager\obj\Debug\net6.0\TaskManager.csproj.CoreCompileInputs.cache
+D:\Nilesh\Tutorials\CSharp_Tutorials\TaskManager\obj\Debug\net6.0\TaskManager.sourcelink.json

@@ -1,0 +1,15 @@
+D:\Nilesh\Tutorials\CSharp_Tutorials\DateTImeFormatCheck\bin\Debug\net6.0\DateTImeFormatCheck.exe
+D:\Nilesh\Tutorials\CSharp_Tutorials\DateTImeFormatCheck\bin\Debug\net6.0\DateTImeFormatCheck.deps.json
+D:\Nilesh\Tutorials\CSharp_Tutorials\DateTImeFormatCheck\bin\Debug\net6.0\DateTImeFormatCheck.runtimeconfig.json
+D:\Nilesh\Tutorials\CSharp_Tutorials\DateTImeFormatCheck\bin\Debug\net6.0\DateTImeFormatCheck.dll
+D:\Nilesh\Tutorials\CSharp_Tutorials\DateTImeFormatCheck\bin\Debug\net6.0\DateTImeFormatCheck.pdb
+D:\Nilesh\Tutorials\CSharp_Tutorials\DateTImeFormatCheck\obj\Debug\net6.0\DateTImeFormatCheck.GeneratedMSBuildEditorConfig.editorconfig
+D:\Nilesh\Tutorials\CSharp_Tutorials\DateTImeFormatCheck\obj\Debug\net6.0\DateTImeFormatCheck.AssemblyInfoInputs.cache
+D:\Nilesh\Tutorials\CSharp_Tutorials\DateTImeFormatCheck\obj\Debug\net6.0\DateTImeFormatCheck.AssemblyInfo.cs
+D:\Nilesh\Tutorials\CSharp_Tutorials\DateTImeFormatCheck\obj\Debug\net6.0\DateTImeFormatCheck.csproj.CoreCompileInputs.cache
+D:\Nilesh\Tutorials\CSharp_Tutorials\DateTImeFormatCheck\obj\Debug\net6.0\DateTImeFormatCheck.sourcelink.json
+D:\Nilesh\Tutorials\CSharp_Tutorials\DateTImeFormatCheck\obj\Debug\net6.0\DateTImeFormatCheck.dll
+D:\Nilesh\Tutorials\CSharp_Tutorials\DateTImeFormatCheck\obj\Debug\net6.0\refint\DateTImeFormatCheck.dll
+D:\Nilesh\Tutorials\CSharp_Tutorials\DateTImeFormatCheck\obj\Debug\net6.0\DateTImeFormatCheck.pdb
+D:\Nilesh\Tutorials\CSharp_Tutorials\DateTImeFormatCheck\obj\Debug\net6.0\DateTImeFormatCheck.genruntimeconfig.cache
+D:\Nilesh\Tutorials\CSharp_Tutorials\DateTImeFormatCheck\obj\Debug\net6.0\ref\DateTImeFormatCheck.dll

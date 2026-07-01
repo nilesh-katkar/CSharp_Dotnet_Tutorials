@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CSharp_DifferenceBtweenClassAndStruct")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+57e21aa3e57e9213f80bdfde9a963f38b7704422")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a435924c103c88cda27aeb04416930a6e10addb2")]
 [assembly: System.Reflection.AssemblyProductAttribute("CSharp_DifferenceBtweenClassAndStruct")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CSharp_DifferenceBtweenClassAndStruct")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

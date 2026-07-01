@@ -1,0 +1,15 @@
+D:\Nilesh\Tutorials\CSharp_Tutorials\SIBAddressCheck\bin\Debug\net6.0\SIBAddressCheck.exe
+D:\Nilesh\Tutorials\CSharp_Tutorials\SIBAddressCheck\bin\Debug\net6.0\SIBAddressCheck.deps.json
+D:\Nilesh\Tutorials\CSharp_Tutorials\SIBAddressCheck\bin\Debug\net6.0\SIBAddressCheck.runtimeconfig.json
+D:\Nilesh\Tutorials\CSharp_Tutorials\SIBAddressCheck\bin\Debug\net6.0\SIBAddressCheck.dll
+D:\Nilesh\Tutorials\CSharp_Tutorials\SIBAddressCheck\bin\Debug\net6.0\SIBAddressCheck.pdb
+D:\Nilesh\Tutorials\CSharp_Tutorials\SIBAddressCheck\obj\Debug\net6.0\SIBAddressCheck.GeneratedMSBuildEditorConfig.editorconfig
+D:\Nilesh\Tutorials\CSharp_Tutorials\SIBAddressCheck\obj\Debug\net6.0\SIBAddressCheck.AssemblyInfoInputs.cache
+D:\Nilesh\Tutorials\CSharp_Tutorials\SIBAddressCheck\obj\Debug\net6.0\SIBAddressCheck.AssemblyInfo.cs
+D:\Nilesh\Tutorials\CSharp_Tutorials\SIBAddressCheck\obj\Debug\net6.0\SIBAddressCheck.csproj.CoreCompileInputs.cache
+D:\Nilesh\Tutorials\CSharp_Tutorials\SIBAddressCheck\obj\Debug\net6.0\SIBAddressCheck.sourcelink.json
+D:\Nilesh\Tutorials\CSharp_Tutorials\SIBAddressCheck\obj\Debug\net6.0\SIBAddressCheck.dll
+D:\Nilesh\Tutorials\CSharp_Tutorials\SIBAddressCheck\obj\Debug\net6.0\refint\SIBAddressCheck.dll
+D:\Nilesh\Tutorials\CSharp_Tutorials\SIBAddressCheck\obj\Debug\net6.0\SIBAddressCheck.pdb
+D:\Nilesh\Tutorials\CSharp_Tutorials\SIBAddressCheck\obj\Debug\net6.0\SIBAddressCheck.genruntimeconfig.cache
+D:\Nilesh\Tutorials\CSharp_Tutorials\SIBAddressCheck\obj\Debug\net6.0\ref\SIBAddressCheck.dll

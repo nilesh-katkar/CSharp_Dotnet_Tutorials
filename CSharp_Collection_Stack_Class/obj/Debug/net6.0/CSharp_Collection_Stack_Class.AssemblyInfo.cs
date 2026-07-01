@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CSharp_Collection_Stack_Class")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3dc652d577a69dcc571cfe216873851dd9af9967")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a435924c103c88cda27aeb04416930a6e10addb2")]
 [assembly: System.Reflection.AssemblyProductAttribute("CSharp_Collection_Stack_Class")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CSharp_Collection_Stack_Class")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
