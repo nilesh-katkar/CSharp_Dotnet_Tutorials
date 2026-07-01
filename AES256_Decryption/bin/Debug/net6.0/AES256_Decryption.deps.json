@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "AES256_Decryption/1.0.0": {
+        "runtime": {
+          "AES256_Decryption.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AES256_Decryption/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

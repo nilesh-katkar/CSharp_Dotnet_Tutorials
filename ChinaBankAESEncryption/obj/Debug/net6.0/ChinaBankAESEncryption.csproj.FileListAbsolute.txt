@@ -1,0 +1,15 @@
+D:\Nilesh\Tutorials\CSharp_Tutorials\ChinaBankAESEncryption\bin\Debug\net6.0\ChinaBankAESEncryption.exe
+D:\Nilesh\Tutorials\CSharp_Tutorials\ChinaBankAESEncryption\bin\Debug\net6.0\ChinaBankAESEncryption.deps.json
+D:\Nilesh\Tutorials\CSharp_Tutorials\ChinaBankAESEncryption\bin\Debug\net6.0\ChinaBankAESEncryption.runtimeconfig.json
+D:\Nilesh\Tutorials\CSharp_Tutorials\ChinaBankAESEncryption\bin\Debug\net6.0\ChinaBankAESEncryption.dll
+D:\Nilesh\Tutorials\CSharp_Tutorials\ChinaBankAESEncryption\bin\Debug\net6.0\ChinaBankAESEncryption.pdb
+D:\Nilesh\Tutorials\CSharp_Tutorials\ChinaBankAESEncryption\obj\Debug\net6.0\ChinaBankAESEncryption.GeneratedMSBuildEditorConfig.editorconfig
+D:\Nilesh\Tutorials\CSharp_Tutorials\ChinaBankAESEncryption\obj\Debug\net6.0\ChinaBankAESEncryption.AssemblyInfoInputs.cache
+D:\Nilesh\Tutorials\CSharp_Tutorials\ChinaBankAESEncryption\obj\Debug\net6.0\ChinaBankAESEncryption.AssemblyInfo.cs
+D:\Nilesh\Tutorials\CSharp_Tutorials\ChinaBankAESEncryption\obj\Debug\net6.0\ChinaBankAESEncryption.csproj.CoreCompileInputs.cache
+D:\Nilesh\Tutorials\CSharp_Tutorials\ChinaBankAESEncryption\obj\Debug\net6.0\ChinaBankAESEncryption.sourcelink.json
+D:\Nilesh\Tutorials\CSharp_Tutorials\ChinaBankAESEncryption\obj\Debug\net6.0\ChinaBankAESEncryption.dll
+D:\Nilesh\Tutorials\CSharp_Tutorials\ChinaBankAESEncryption\obj\Debug\net6.0\refint\ChinaBankAESEncryption.dll
+D:\Nilesh\Tutorials\CSharp_Tutorials\ChinaBankAESEncryption\obj\Debug\net6.0\ChinaBankAESEncryption.pdb
+D:\Nilesh\Tutorials\CSharp_Tutorials\ChinaBankAESEncryption\obj\Debug\net6.0\ChinaBankAESEncryption.genruntimeconfig.cache
+D:\Nilesh\Tutorials\CSharp_Tutorials\ChinaBankAESEncryption\obj\Debug\net6.0\ref\ChinaBankAESEncryption.dll

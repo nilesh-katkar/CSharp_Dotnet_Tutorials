@@ -1,0 +1,15 @@
+D:\Nilesh\Tutorials\CSharp_Tutorials\PfxToPemConverter\bin\Debug\net6.0\PfxToPemConverter.exe
+D:\Nilesh\Tutorials\CSharp_Tutorials\PfxToPemConverter\bin\Debug\net6.0\PfxToPemConverter.deps.json
+D:\Nilesh\Tutorials\CSharp_Tutorials\PfxToPemConverter\bin\Debug\net6.0\PfxToPemConverter.runtimeconfig.json
+D:\Nilesh\Tutorials\CSharp_Tutorials\PfxToPemConverter\bin\Debug\net6.0\PfxToPemConverter.dll
+D:\Nilesh\Tutorials\CSharp_Tutorials\PfxToPemConverter\bin\Debug\net6.0\PfxToPemConverter.pdb
+D:\Nilesh\Tutorials\CSharp_Tutorials\PfxToPemConverter\obj\Debug\net6.0\PfxToPemConverter.GeneratedMSBuildEditorConfig.editorconfig
+D:\Nilesh\Tutorials\CSharp_Tutorials\PfxToPemConverter\obj\Debug\net6.0\PfxToPemConverter.AssemblyInfoInputs.cache
+D:\Nilesh\Tutorials\CSharp_Tutorials\PfxToPemConverter\obj\Debug\net6.0\PfxToPemConverter.AssemblyInfo.cs
+D:\Nilesh\Tutorials\CSharp_Tutorials\PfxToPemConverter\obj\Debug\net6.0\PfxToPemConverter.csproj.CoreCompileInputs.cache
+D:\Nilesh\Tutorials\CSharp_Tutorials\PfxToPemConverter\obj\Debug\net6.0\PfxToPemConverter.sourcelink.json
+D:\Nilesh\Tutorials\CSharp_Tutorials\PfxToPemConverter\obj\Debug\net6.0\PfxToPemConverter.dll
+D:\Nilesh\Tutorials\CSharp_Tutorials\PfxToPemConverter\obj\Debug\net6.0\refint\PfxToPemConverter.dll
+D:\Nilesh\Tutorials\CSharp_Tutorials\PfxToPemConverter\obj\Debug\net6.0\PfxToPemConverter.pdb
+D:\Nilesh\Tutorials\CSharp_Tutorials\PfxToPemConverter\obj\Debug\net6.0\PfxToPemConverter.genruntimeconfig.cache
+D:\Nilesh\Tutorials\CSharp_Tutorials\PfxToPemConverter\obj\Debug\net6.0\ref\PfxToPemConverter.dll
