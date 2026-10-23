@@ -1,0 +1,15 @@
+E:\Nilesh\Tutorials\CSharp_Tutorials\Coins\bin\Debug\net8.0\Coins.exe
+E:\Nilesh\Tutorials\CSharp_Tutorials\Coins\bin\Debug\net8.0\Coins.deps.json
+E:\Nilesh\Tutorials\CSharp_Tutorials\Coins\bin\Debug\net8.0\Coins.runtimeconfig.json
+E:\Nilesh\Tutorials\CSharp_Tutorials\Coins\bin\Debug\net8.0\Coins.dll
+E:\Nilesh\Tutorials\CSharp_Tutorials\Coins\bin\Debug\net8.0\Coins.pdb
+E:\Nilesh\Tutorials\CSharp_Tutorials\Coins\obj\Debug\net8.0\Coins.GeneratedMSBuildEditorConfig.editorconfig
+E:\Nilesh\Tutorials\CSharp_Tutorials\Coins\obj\Debug\net8.0\Coins.AssemblyInfoInputs.cache
+E:\Nilesh\Tutorials\CSharp_Tutorials\Coins\obj\Debug\net8.0\Coins.AssemblyInfo.cs
+E:\Nilesh\Tutorials\CSharp_Tutorials\Coins\obj\Debug\net8.0\Coins.csproj.CoreCompileInputs.cache
+E:\Nilesh\Tutorials\CSharp_Tutorials\Coins\obj\Debug\net8.0\Coins.sourcelink.json
+E:\Nilesh\Tutorials\CSharp_Tutorials\Coins\obj\Debug\net8.0\Coins.dll
+E:\Nilesh\Tutorials\CSharp_Tutorials\Coins\obj\Debug\net8.0\refint\Coins.dll
+E:\Nilesh\Tutorials\CSharp_Tutorials\Coins\obj\Debug\net8.0\Coins.pdb
+E:\Nilesh\Tutorials\CSharp_Tutorials\Coins\obj\Debug\net8.0\Coins.genruntimeconfig.cache
+E:\Nilesh\Tutorials\CSharp_Tutorials\Coins\obj\Debug\net8.0\ref\Coins.dll

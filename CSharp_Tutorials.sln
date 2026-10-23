@@ -141,6 +141,12 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebhookCallBack", "WebhookC
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NeemaCallback", "NeemaCallback\NeemaCallback.csproj", "{531548C9-D2BA-4AF2-89CF-EBEF81E60C92}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Digit9WebhookCallback", "Digit9WebhookCallback\Digit9WebhookCallback.csproj", "{682A7F3B-257A-489C-AE96-C96475BC4DCE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HMAC_Auth_Signature", "HMAC_Auth_Signature\HMAC_Auth_Signature.csproj", "{7E131D05-CEE9-4C07-A3C7-E7A1358F4606}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Coins", "Coins\Coins.csproj", "{36E45D40-FEEF-40B2-B0D9-965A908D6061}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -423,8 +429,23 @@ Global
 		{531548C9-D2BA-4AF2-89CF-EBEF81E60C92}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{531548C9-D2BA-4AF2-89CF-EBEF81E60C92}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{531548C9-D2BA-4AF2-89CF-EBEF81E60C92}.Release|Any CPU.Build.0 = Release|Any CPU
+		{682A7F3B-257A-489C-AE96-C96475BC4DCE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{682A7F3B-257A-489C-AE96-C96475BC4DCE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{682A7F3B-257A-489C-AE96-C96475BC4DCE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{682A7F3B-257A-489C-AE96-C96475BC4DCE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7E131D05-CEE9-4C07-A3C7-E7A1358F4606}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E131D05-CEE9-4C07-A3C7-E7A1358F4606}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E131D05-CEE9-4C07-A3C7-E7A1358F4606}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E131D05-CEE9-4C07-A3C7-E7A1358F4606}.Release|Any CPU.Build.0 = Release|Any CPU
+		{36E45D40-FEEF-40B2-B0D9-965A908D6061}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{36E45D40-FEEF-40B2-B0D9-965A908D6061}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{36E45D40-FEEF-40B2-B0D9-965A908D6061}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{36E45D40-FEEF-40B2-B0D9-965A908D6061}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BDDE0CED-0056-48C8-B87F-135D892246B8}
 	EndGlobalSection
 EndGlobal

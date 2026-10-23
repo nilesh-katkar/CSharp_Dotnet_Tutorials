@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "HMAC_Auth_Signature/1.0.0": {
+        "runtime": {
+          "HMAC_Auth_Signature.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "HMAC_Auth_Signature/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
