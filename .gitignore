@@ -1,1 +1,8 @@
 .vs/
+# private projects
+Coins/
+ChinaBankAESEncryption/
+ZCCB_DecryptionFlow/
+HMAC_Auth_Signature/
+AES256/
+00_ZCBB/
